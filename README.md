@@ -1,3 +1,12 @@
+# PMA2020 changes
+
+PMA2020 adds a single commit to Javarosa to include string functions:
+
+- `trim`
+- `toLowerCase`
+- `toUpperCase`
+- `contains`
+
 # ODK JavaRosa
 ![Platform](https://img.shields.io/badge/platform-Java-blue.svg)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
